@@ -11,7 +11,7 @@ Emoticon                                       | Code
 ![cat](emoticons/cat.gif)                      | (cat)
 ![cookie](emoticons/cookie.jpg)                | (cookie)
 ![doge](emoticons/doge.png)                    | (doge)
-![dumping](emoticons/dumping.png)              | (dumping)
+![dumpling](emoticons/dumpling.png)            | (dumpling)
 ![f1](emoticons/f1.png)                        | (f1)
 ![foos](emoticons/foos.jpg)                    | (foos)
 ![mm](emoticons/mm.png)                        | (mm)
