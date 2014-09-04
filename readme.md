@@ -25,4 +25,4 @@ Emoticon                                       | Code
 ![technobird](emoticons/technobird.png)        | (technobird)
 ![thundercats](emoticons/thundercats.png)      | (thundercats)
 ![yeti](emoticons/yeti.gif)                    | (yeti)
-![bug](emoticons/bug.png)                      | (bug)
+![bug](emoticons/bug.gif)                      | (bug)
