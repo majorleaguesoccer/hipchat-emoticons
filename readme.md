@@ -26,3 +26,4 @@ Emoticon                                       | Code
 ![thundercats](emoticons/thundercats.png)      | (thundercats)
 ![yeti](emoticons/yeti.gif)                    | (yeti)
 ![bug](emoticons/bug.gif)                      | (bug)
+![horsehead](emoticons/horsehead.png)          | (horsehead)
