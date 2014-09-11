@@ -27,3 +27,4 @@ Emoticon                                       | Code
 ![yeti](emoticons/yeti.gif)                    | (yeti)
 ![bug](emoticons/bug.gif)                      | (bug)
 ![horsehead](emoticons/horsehead.png)          | (horsehead)
+![cave](emoticons/cave.png)                    | (cave)
